@@ -12,3 +12,4 @@ PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-poli
 UBUNTU_CODENAME=jammy
 updated
 ssh key without passphrase
+it was edited in github
